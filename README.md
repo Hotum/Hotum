@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hotum
+- 👋 Hi, I’m Ilya
 - 👀 I’m interested in webdev
 - 🌱 I’m currently learning redux
 
